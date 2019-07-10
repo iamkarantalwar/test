@@ -1,6 +1,2 @@
-
-Hello
-Python
-Worjvsbvsbshs sbjsb
-print("Hello Python")
+print("A new update")
 
